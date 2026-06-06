@@ -8,7 +8,7 @@ OPENROUTER_KEY = "sk-or-v1-8676a7bbcc717abbd9a4c7dda622f59b2684f03b2509e7ac751b4
 
 OPENROUTER_CHAT_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-MODEL_NAME = "arcee-ai/trinity-large-preview:free"
+MODEL_NAME = "poolside/laguna-m.1:free"
 
 HEADERS = {
     "Authorization": f"Bearer {OPENROUTER_KEY}",
